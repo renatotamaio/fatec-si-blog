@@ -1,0 +1,24 @@
+{
+  "name": "fatec-si-blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.5",
+    "nuxt-buefy": "^0.4.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.2",
+    "css-loader": "^4.3.0",
+    "postcss": "^8.1.1",
+    "postcss-loader": "^4.0.2",
+    "style-loader": "^1.2.1"
+  }
+}

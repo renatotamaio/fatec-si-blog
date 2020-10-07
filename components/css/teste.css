@@ -1,0 +1,278 @@
+.title {
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  display: block;
+  font-weight: 300;
+  font-size: 100px;
+  color: #35495e;
+  letter-spacing: 1px;
+}
+
+body {
+  background-color: #cccccc;
+  height: 100%;
+}
+
+.imagem {
+  height: 100%;
+  width: 100%;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 42px;
+  color: #cccccc;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
+
+.links {
+  padding-top: 15px;
+}
+
+.p-1-default {
+  font-size: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.card1 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding-left: 30px;
+}
+
+.card2 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 3;
+  grid-column-end: 6;
+}
+
+.titulo {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.titulo a {
+  text-decoration: none;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.description {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  padding-left: 30px;
+  padding-top: 300px;
+  font-size: 15px;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.tittle {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  font-size: 20px;
+}
+
+.tittle a {
+  text-decoration: none;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.descricao {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 3;
+  grid-column-end: 6;
+  padding-top: 300px;
+  font-size: 15px;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.ace {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  padding-left: 30px;
+}
+
+.piece {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  padding-left: 30px;
+  font-size: 20px;
+}
+
+.piece a {
+  text-decoration: none;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.descri {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  padding-left: 30px;
+  font-size: 15px;
+  padding-top: 300px;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.reborn {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 3;
+  grid-column-end: 6;
+}
+
+.final {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 3;
+  grid-column-end: 6;
+}
+
+.final a {
+  color: #cccccc;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.finalmente {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 3;
+  grid-column-end: 6;
+  font-size: 15px;
+  padding-top: 300px;
+  color: #cccccc;
+  font-weight: bolder;
+}
+
+.selecao {
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.selecao a {
+  text-decoration: none;
+  color: black;
+}
+
+.um {
+  padding-right: 200px;
+}
+
+.move {
+  padding-left: 1200px;
+}
+
+.grid- {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+}
+
+.cima {
+  grid-column-start: 3;
+  grid-column-end: 6;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-between;
+}
+
+.footer {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  background-color: gray;
+}
+
+.texto {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.distribuido {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+.siga {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  padding-top: 10px;
+}
+
+.logo {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  padding-left: 200px;
+}
+
+.logo2 {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  padding-left: 250px;
+}
+
+.toei {
+  grid-column-start: 4;
+  grid-row-start: 3;
+  padding-left: 280px;
+}
+
+.gridrodape {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr), grid-template-rows repeat(2, 1fr);
+  background-color: #cccccc;
+}
+
+.rodapefooter {
+  color: #cccccc;
+  justify-content: center;
+  padding-top: 5px;
+  text-align: center;
+  color: black;
+}
+
+.fundomenu {
+  background-color: #cccccc;
+}
+
+.textodireita {
+  padding-left: 40px;
+}

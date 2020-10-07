@@ -2,7 +2,7 @@
   <div class="textodireita">
     <p>
       <b
-        >Esportes Interior de São Paulo o maior blod de esporte do interior e do
+        >Esportes Interior de São Paulo o maior blog de esporte do interior e do
         mundo você encontra aqui.</b
       >
     </p>

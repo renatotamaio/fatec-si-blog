@@ -5,12 +5,12 @@
                 <img src="https://s2.glbimg.com/gOjD6TYcp2IXWPvUo2tRiCUP-5c=/0x0:1600x1065/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/P/Y/wdiIw3TFqkBCEp2uMm1w/49540674266-5a08b94aab-o.jpg" alt="">
             </div>
             <div class="infonot">
-                <b><u>SporTV transmite a Superliga 2020/21; veja os jogos já confirmados</u></b>
+                <b><u>SporTV transmite a SuperLiga 2020/21; veja os jogos já confirmados.</u></b>
             </div>
             <div class="textoxbox2">
-                <p>O SporTV vai transmitir a Superliga de Vôlei nos dois naipes, masculino e feminino. A Confederação Brasileira de Vôlei (CBV) divulgou nesta quarta-feira a tabela dos jogos já confirmados com transmissão no 1º turno. Todas serão no SporTV 2. 
+                <p>O SporTV vai transmitir a SuperLiga de Vôlei nos dois naipes, masculino e feminino. A Confederação Brasileira de Vôlei (CBV) divulgou nesta quarta-feira a tabela dos jogos já confirmados com transmissão no 1º turno. Todas serão no SporTV 2. 
                 </p>
-                <p>No dia 10 de novembro, às 21h30min, o Guarulhos recebe o Cruzeiro pela Superliga de Vôlei Masculino. No dia 9 de novembro, no mesmo horário, é a vez de Pinheiros x Sesi-Bauru na Superliga de Vôlei Feminino. Os dois jogos abrem as transmissões do SporTV 2 na temporada. </p>
+                <p>No dia 10 de novembro, às 21h30min, o Guarulhos recebe o Cruzeiro pela SuperLiga de Vôlei Masculino. No dia 9 de novembro, no mesmo horário, é a vez de Pinheiros x Sesi-Bauru na Superliga de Vôlei Feminino. Os dois jogos abrem as transmissões do SporTV 2 na temporada. </p>
                 <br>
                 <br>
                 <img src="https://s2.glbimg.com/bBvd6GaZhSk0Q1Bf4om6OGveCBU=/0x0:2976x1984/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/L/U/AjVf4qTC2fLpF7BqX5GQ/suelle-ataca-contra-o-pinheiros.jpg" alt="">

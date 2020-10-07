@@ -12,7 +12,7 @@
             <h4><b>São Paulo.</b></h4>
             <p>
               Mancini x São Paulo: técnico do Atlético-GO reencontra Fernando
-              Diniz pressionado no cargo
+              Diniz pressionado no cargo.
             </p>
           </div>
         </n-link>
@@ -29,7 +29,7 @@
           <div class="container2">
             <h4><b>Super Liga.</b></h4>
             <p>
-              SporTV transmite a Superliga 2020/21; veja os jogos já
+              SporTV transmite a SuperLiga 2020/21; veja os jogos já
               confirmados e não fique de fora.
             </p>
           </div>

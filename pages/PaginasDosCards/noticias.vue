@@ -30,7 +30,7 @@
             <h4><b>Super Liga.</b></h4>
             <p>
               SporTV transmite a Superliga 2020/21; veja os jogos já
-              confirmados.
+              confirmados e não fique de fora.
             </p>
           </div>
         </n-link>

@@ -10,7 +10,7 @@
             <div class="textoxbox2">
                 <p>O SporTV vai transmitir a Superliga de Vôlei nos dois naipes, masculino e feminino. A Confederação Brasileira de Vôlei (CBV) divulgou nesta quarta-feira a tabela dos jogos já confirmados com transmissão no 1º turno. Todas serão no SporTV 2. 
                 </p>
-                <p>No dia 1 de novembro, às 21h30min, o Guarulhos recebe o Cruzeiro pela Superliga de Vôlei Masculino. No dia 9 de novembro, no mesmo horário, é a vez de Pinheiros x Sesi-Bauru na Superliga de Vôlei Feminino. Os dois jogos abrem as transmissões do SporTV 2 na temporada. </p>
+                <p>No dia 10 de novembro, às 21h30min, o Guarulhos recebe o Cruzeiro pela Superliga de Vôlei Masculino. No dia 9 de novembro, no mesmo horário, é a vez de Pinheiros x Sesi-Bauru na Superliga de Vôlei Feminino. Os dois jogos abrem as transmissões do SporTV 2 na temporada. </p>
                 <br>
                 <br>
                 <img src="https://s2.glbimg.com/bBvd6GaZhSk0Q1Bf4om6OGveCBU=/0x0:2976x1984/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/L/U/AjVf4qTC2fLpF7BqX5GQ/suelle-ataca-contra-o-pinheiros.jpg" alt="">
